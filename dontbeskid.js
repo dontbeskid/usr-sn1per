@@ -186,216 +186,7 @@
 // https://unixgram.com/u/qapi
 // https://unixgram.com/u/qapi
 // https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
-// https://unixgram.com/u/qapi
+
 
 (async () => {
   if (document.getElementById('m3-sniper-root')) {
@@ -481,7 +272,7 @@
         position: fixed;
         bottom: 20px;
         right: 20px;
-        width: 380px;
+        width: 400px;
         max-height: 85vh;
         background-color: var(--m3-surface);
         backdrop-filter: var(--m3-backdrop);
@@ -605,7 +396,7 @@
 
       .m3-tab {
         flex: 1;
-        padding: 12px;
+        padding: 12px 6px;
         text-align: center;
         background: none;
         border: none;
@@ -618,8 +409,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 6px;
-        font-size: 0.85rem;
+        gap: 4px;
+        font-size: 0.8rem;
       }
 
       .m3-tab.active {
@@ -631,7 +422,7 @@
         bottom: 0;
         left: 0;
         height: 3px;
-        width: 50%;
+        width: 33.33%;
         background: var(--m3-primary);
         border-radius: 3px 3px 0 0;
         transition: transform 0.3s var(--m3-easing-bounce);
@@ -884,6 +675,25 @@
     }
   };
 
+  let englishWords = [];
+  let isDictLoaded = false;
+
+  const loadDictionary = async () => {
+    try {
+      const res = await fetch('https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt');
+      const text = await res.text();
+      englishWords = text.split(/\r?\n/).map(w => w.trim().toLowerCase()).filter(Boolean);
+      isDictLoaded = true;
+      const dictStatus = document.getElementById('m3-dict-status');
+      if (dictStatus) dictStatus.textContent = `Loaded ${englishWords.length.toLocaleString()} words`;
+    } catch (e) {
+      const dictStatus = document.getElementById('m3-dict-status');
+      if (dictStatus) dictStatus.textContent = 'Failed to load dictionary';
+    }
+  };
+
+  loadDictionary();
+
   const container = document.createElement('div');
   container.id = 'm3-sniper-root';
   container.setAttribute('data-theme', 'midnight');
@@ -907,10 +717,13 @@
     </div>
     <div class="m3-tabs">
       <button class="m3-tab active" data-tab="length">
-        <span class="m3-icon">auto_awesome</span> Generator
+        <span class="m3-icon">auto_awesome</span> Gen
       </button>
       <button class="m3-tab" data-tab="company">
-        <span class="m3-icon">domain</span> Company Mix
+        <span class="m3-icon">domain</span> Company
+      </button>
+      <button class="m3-tab" data-tab="words">
+        <span class="m3-icon">menu_book</span> Words
       </button>
       <div class="m3-tab-indicator" id="m3-indicator"></div>
     </div>
@@ -937,6 +750,16 @@
         <div class="m3-field">
           <label><span class="m3-icon" style="font-size:16px;">style</span> Suffix List (comma separated)</label>
           <input type="text" id="m3-company-words" class="m3-input" value="api,dev,app,official,cloud,net">
+        </div>
+      </div>
+      <div id="tab-words" class="m3-tab-content hidden">
+        <div class="m3-field">
+          <label><span class="m3-icon" style="font-size:16px;">filter_alt</span> Word Length Limit (0 = Any)</label>
+          <input type="number" id="m3-word-len" class="m3-input" value="0" min="0" max="32">
+        </div>
+        <div class="m3-field">
+          <label><span class="m3-icon" style="font-size:16px;">info</span> Dictionary Status</label>
+          <span id="m3-dict-status" style="font-size: 0.8rem; color: var(--m3-primary);">Loading dictionary...</span>
         </div>
       </div>
       <div class="m3-field">
@@ -973,6 +796,7 @@
   let requestCount = 0;
   let foundCount = 0;
   let usedSuffixes = [];
+  let checkedWords = new Set();
 
   const listContainer = container.querySelector('#m3-list');
   
@@ -1027,22 +851,18 @@
 
       const tabLength = container.querySelector('#tab-length');
       const tabCompany = container.querySelector('#tab-company');
+      const tabWords = container.querySelector('#tab-words');
 
-      if (activeTab === 'length') {
-        tabCompany.classList.remove('visible');
-        tabCompany.classList.add('hidden');
-        setTimeout(() => {
-          tabLength.classList.remove('hidden');
-          tabLength.classList.add('visible');
-        }, 150);
-      } else {
-        tabLength.classList.remove('visible');
-        tabLength.classList.add('hidden');
-        setTimeout(() => {
-          tabCompany.classList.remove('hidden');
-          tabCompany.classList.add('visible');
-        }, 150);
-      }
+      [tabLength, tabCompany, tabWords].forEach(t => {
+        t.classList.remove('visible');
+        t.classList.add('hidden');
+      });
+
+      setTimeout(() => {
+        if (activeTab === 'length') tabLength.classList.replace('hidden', 'visible');
+        else if (activeTab === 'company') tabCompany.classList.replace('hidden', 'visible');
+        else if (activeTab === 'words') tabWords.classList.replace('hidden', 'visible');
+      }, 150);
     });
   });
 
@@ -1102,6 +922,24 @@
     return result;
   };
 
+  const getRandomWord = (targetLen) => {
+    if (!isDictLoaded || englishWords.length === 0) return null;
+    let pool = englishWords;
+    if (targetLen > 0) {
+      pool = englishWords.filter(w => w.length === targetLen);
+      if (pool.length === 0) pool = englishWords;
+    }
+    let word;
+    let attempts = 0;
+    do {
+      word = pool[Math.floor(Math.random() * pool.length)];
+      attempts++;
+    } while (checkedWords.has(word) && attempts < 100);
+    
+    checkedWords.add(word);
+    return word;
+  };
+
   const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
   const runLoop = async () => {
@@ -1114,7 +952,7 @@
         const len = parseInt(container.querySelector('#m3-len-val').value) || 4;
         const charset = container.querySelector('#m3-charset').value;
         targetUser = generateRandomStr(len, charset);
-      } else {
+      } else if (activeTab === 'company') {
         const base = container.querySelector('#m3-company-base').value.trim();
         const suffixes = container.querySelector('#m3-company-words').value.split(',').map(s => s.trim()).filter(Boolean);
         
@@ -1127,6 +965,13 @@
         const nextSuffix = availableSuffixes[Math.floor(Math.random() * availableSuffixes.length)] || 'api';
         usedSuffixes.push(nextSuffix);
         targetUser = `${base}${nextSuffix}`;
+      } else if (activeTab === 'words') {
+        const wordLen = parseInt(container.querySelector('#m3-word-len').value) || 0;
+        targetUser = getRandomWord(wordLen);
+        if (!targetUser) {
+          await sleep(500);
+          continue;
+        }
       }
 
       requestCount++;
